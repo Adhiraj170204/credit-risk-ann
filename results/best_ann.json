@@ -1,0 +1,18 @@
+{
+  "architecture": "ann_medium [32-16]",
+  "hidden_layers": [
+    32,
+    16
+  ],
+  "dropout": 0.3,
+  "l2": 0.0001,
+  "learning_rate": 0.001,
+  "batch_size": 64,
+  "best_epoch": 92,
+  "params": 1505,
+  "n_features": 29,
+  "class_weight": {
+    "0": 0.695,
+    "1": 1.78
+  }
+}

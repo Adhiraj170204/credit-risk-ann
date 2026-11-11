@@ -1,0 +1,5 @@
+model,val_roc_auc,params,epochs
+logistic_regression,0.8255563452227601,30,
+ann_small  [16],0.8394261093590372,497,70.0
+ann_medium [32-16],0.845467063474437,1505,92.0
+ann_large  [64-32-16],0.8380491271709678,4545,24.0
